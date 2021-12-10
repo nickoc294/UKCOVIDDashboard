@@ -5,7 +5,7 @@ with open("README.md", "r") as rm:
     
 setuptools.setup(
     name="covid-dashboard-noconnor",
-    version="0.1",
+    version="0.1.1",
     author="Nick O'Connor",
     author_email="no294@exeter.ac.uk",
     description="A dashboard listing details and news about COVID-19 in the UK",
