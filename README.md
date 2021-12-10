@@ -6,7 +6,7 @@ This Python application presents the latest data and news about the coronavirus 
 ### Installation:
 Installation is done via the package manager pip.
 ```bash
-pip install -i https://test.pypi.org/simple/ covid-dashboard-noconnor==0.1
+pip install -i https://test.pypi.org/simple/ covid-dashboard-noconnor==0.1.1
 ```
 ### Usage:
 Running dashboard.py starts up the application. Once running, the program should open a browser tab with the dashboard in it. If not, the dashboard is hosted locally at 127.0.0.1:5000.
